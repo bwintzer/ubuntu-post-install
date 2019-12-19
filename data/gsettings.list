@@ -1,4 +1,6 @@
-org.gnome.desktop.interface clock-format 12h
+
+org.gnome.desktop.background show-desktop-icons false
+org.gnome.desktop.interface clock-format 24h
 org.gnome.desktop.interface clock-show-date true
 org.gnome.desktop.wm.preferences button-layout ':close'
 org.gnome.gedit.preferences.editor auto-save true
